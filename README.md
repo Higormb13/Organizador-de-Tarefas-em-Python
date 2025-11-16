@@ -18,13 +18,13 @@ origem, status, arquivamento automático e relatórios.
 
 ##  **Funcionalidades**
 
--   Criar tarefas com título, descrição, prioridade e origem\
--   Seleção automática da tarefa mais urgente\
--   Atualizar prioridade\
--   Marcar como concluída\
--   Arquivar tarefas antigas (7+ dias)\
--   Exclusão lógica\
--   Relatórios completos e de arquivados\
+-   Criar tarefas com título, descrição, prioridade e origem
+-   Seleção automática da tarefa mais urgente
+-   Atualizar prioridade
+-   Marcar como concluída
+-   Arquivar tarefas antigas (7+ dias)
+-   Exclusão lógica
+-   Relatórios completos e de arquivados
 -   Persistência total em JSON
 
 ------------------------------------------------------------------------
@@ -51,28 +51,26 @@ origem, status, arquivamento automático e relatórios.
 
 ------------------------------------------------------------------------
 
-##  **Como Usar**
+## Como Usar
 
 1.  Clone o repositório:
 
-```{=html}
-<!-- -->
+``` bash
+git clone https://github.com/Higormb13/Organizador-de-Tarefas-em-Python.git
 ```
-    git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
 
 2.  Entre na pasta:
 
-```{=html}
-<!-- -->
+``` bash
+cd Organizador-de-Tarefas-em-Python
 ```
-    cd NOME-DO-REPO
 
 3.  Execute:
 
-```{=html}
-<!-- -->
+``` bash
+python tarefas.py
 ```
-    python main.py
+
 
 ------------------------------------------------------------------------
 
@@ -86,7 +84,7 @@ origem, status, arquivamento automático e relatórios.
 
 ##  **Objetivo Educacional**
 
-Dominar: - Organização lógica\
-- Persistência de dados\
-- Serialização/desserialização\
+Dominar: - Organização lógica
+- Persistência de dados
+- Serialização/desserialização
 - Funções e modularização
