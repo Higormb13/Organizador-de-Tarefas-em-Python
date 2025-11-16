@@ -76,8 +76,8 @@ python tarefas.py
 
 ##  **Tecnologias Usadas**
 
--   Python 3\
--   json\
+-   Python 3
+-   json
 -   datetime
 
 ------------------------------------------------------------------------
