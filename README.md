@@ -33,16 +33,16 @@ origem, status, arquivamento automático e relatórios.
 
 ``` json
 {
-    "controle_id": 5,
+    "controle_id": 1,
     "tarefas": [
-        {
+       {
             "id": 1,
-            "titulo": "Exemplo",
-            "descricao": "Minha tarefa",
-            "prioridade": "Alta",
+            "titulo": "exemplo",
+            "descricao": "tarefa",
+            "prioridade": "Urgente",
             "status": "Pendente",
             "origem": "E-mail",
-            "data_criacao": "2025-11-10T14:30:05",
+            "data_criacao": "2025-11-16T15:48:40.334174",
             "data_conclusao": null
         }
     ]
